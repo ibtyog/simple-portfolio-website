@@ -1,0 +1,51 @@
+body {
+    background-color: #494f5e;
+    color: aliceblue;
+    height: 100vh;
+}
+
+.introduction, .technologies, .experience, .plans{
+    padding: 5%;
+    height: 60vh;
+    text-align: center;
+}
+
+.technologies , .bg-list, .plans{
+    background-color: #333741;
+    color: aliceblue;
+}
+
+.tech-ico {
+    height: 50px;
+    width: 50px;
+}
+
+.bg-list{
+    text-align: left;
+}
+
+#link-img {
+    margin: 2%;
+    height: 100px;
+}
+
+.footer{
+    background-color: #333741;
+}
+
+.footer-p{
+    text-align: center;
+    color: aliceblue;
+}
+.footer-link {
+    display: inline-block;
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+}
+
+.secret{
+    color: #494e5c;
+    text-align: center;
+}
